@@ -1,4 +1,4 @@
-<h1> Hi there, I'm zesk</h1>
+<h1> Hi there, I'm Shenmue</h1>
 
 ---
 ## 🖥️ My Discord :
