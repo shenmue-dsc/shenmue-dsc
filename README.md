@@ -2,7 +2,7 @@
 
 ---
 ## 🖥️ My Discord :
-<a href="https://discord.com/users/861946846163370036">
+<a href="https://discord.com/users/1136389501388853298">
 <img src="https://lanyard-profile-readme.vercel.app/api/861946846163370036?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
 </a>
 
